@@ -5,4 +5,4 @@ This is the final project for for the Developing Data Products Class in the Data
 
 This Shiny App allows you to convert temperatures in Fahrenheit to Celsius.  
 
-The applecation can be found  <a href="http://cincome.shinyapps.io/fahrenheit2celsius"> here. </a>
+The application can be found  <a href="http://cincome.shinyapps.io/fahrenheit2celsius"> here. </a>
